@@ -1,0 +1,4 @@
+pageobjects/MainPage.class
+pageobjects/NewsLetterPage.class
+pageobjects/EditionsPage.class
+helper/GlobalVariables.class
