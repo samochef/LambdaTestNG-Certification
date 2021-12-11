@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 300.459 s <<< FAILURE! - in TestSuite
-testChrome1(LambdaTest)  Time elapsed: 72.637 s  <<< FAILURE!
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 132.505 s <<< FAILURE! - in TestSuite
+testChrome1(LambdaTest)  Time elapsed: 32.864 s  <<< FAILURE!
 org.openqa.selenium.json.JsonException: 
 java.lang.reflect.InvocationTargetException
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
@@ -19,7 +19,7 @@ System info: host: 'ws-5161129e-3b52-47c1-ab7d-d8bd34934305', ip: '192.168.63.23
 Driver info: driver.version: RemoteWebDriver
 	at LambdaTest.testChrome1(LambdaTest.java:65)
 
-testChrome1(LambdaTest)  Time elapsed: 85.158 s  <<< FAILURE!
+testChrome1(LambdaTest)  Time elapsed: 37.412 s  <<< FAILURE!
 org.openqa.selenium.json.JsonException: 
 java.lang.reflect.InvocationTargetException
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
@@ -36,7 +36,7 @@ System info: host: 'ws-5161129e-3b52-47c1-ab7d-d8bd34934305', ip: '192.168.63.23
 Driver info: driver.version: RemoteWebDriver
 	at LambdaTest.testChrome1(LambdaTest.java:65)
 
-testChrome1(LambdaTest)  Time elapsed: 70.526 s  <<< FAILURE!
+testChrome1(LambdaTest)  Time elapsed: 30.317 s  <<< FAILURE!
 org.openqa.selenium.json.JsonException: 
 java.lang.reflect.InvocationTargetException
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
@@ -53,7 +53,7 @@ System info: host: 'ws-5161129e-3b52-47c1-ab7d-d8bd34934305', ip: '192.168.63.23
 Driver info: driver.version: RemoteWebDriver
 	at LambdaTest.testChrome1(LambdaTest.java:65)
 
-testChrome1(LambdaTest)  Time elapsed: 69.735 s  <<< FAILURE!
+testChrome1(LambdaTest)  Time elapsed: 29.74 s  <<< FAILURE!
 org.openqa.selenium.json.JsonException: 
 java.lang.reflect.InvocationTargetException
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'

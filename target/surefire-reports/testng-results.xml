@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="0" failed="4" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-11T17:39:09 UTC" name="Suite" finished-at="2021-12-11T17:44:09 UTC" duration-ms="300037">
+  <suite started-at="2021-12-11T17:56:47 UTC" name="Suite" finished-at="2021-12-11T17:58:59 UTC" duration-ms="132068">
     <groups>
     </groups>
-    <test started-at="2021-12-11T17:39:09 UTC" name="Test1" finished-at="2021-12-11T17:40:22 UTC" duration-ms="72985">
+    <test started-at="2021-12-11T17:56:47 UTC" name="Test1" finished-at="2021-12-11T17:57:20 UTC" duration-ms="33231">
       <class name="LambdaTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:39:09 UTC" name="beforeTest" finished-at="2021-12-11T17:39:09 UTC" duration-ms="166" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:56:47 UTC" name="beforeTest" finished-at="2021-12-11T17:56:47 UTC" duration-ms="193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:39:09 UTC" name="testChrome1" finished-at="2021-12-11T17:40:22 UTC" duration-ms="72628" status="FAIL">
+        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:56:47 UTC" name="testChrome1" finished-at="2021-12-11T17:57:20 UTC" duration-ms="32835" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -111,19 +111,19 @@ at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:84)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChrome1 -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:40:22 UTC" name="afterTest" finished-at="2021-12-11T17:40:22 UTC" duration-ms="160" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@45099dd3]" started-at="2021-12-11T17:57:20 UTC" name="afterTest" finished-at="2021-12-11T17:57:20 UTC" duration-ms="153" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- LambdaTest -->
     </test> <!-- Test1 -->
-    <test started-at="2021-12-11T17:40:22 UTC" name="Test2" finished-at="2021-12-11T17:41:48 UTC" duration-ms="85853">
+    <test started-at="2021-12-11T17:57:20 UTC" name="Test2" finished-at="2021-12-11T17:57:58 UTC" duration-ms="37962">
       <class name="LambdaTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:40:22 UTC" name="beforeTest" finished-at="2021-12-11T17:40:22 UTC" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:57:20 UTC" name="beforeTest" finished-at="2021-12-11T17:57:20 UTC" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:40:22 UTC" name="testChrome1" finished-at="2021-12-11T17:41:47 UTC" duration-ms="85156" status="FAIL">
+        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:57:20 UTC" name="testChrome1" finished-at="2021-12-11T17:57:57 UTC" duration-ms="37412" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -223,19 +223,19 @@ at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:84)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChrome1 -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:41:47 UTC" name="afterTest" finished-at="2021-12-11T17:41:48 UTC" duration-ms="684" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@2e8c1c9b]" started-at="2021-12-11T17:57:57 UTC" name="afterTest" finished-at="2021-12-11T17:57:58 UTC" duration-ms="546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- LambdaTest -->
     </test> <!-- Test2 -->
-    <test started-at="2021-12-11T17:41:48 UTC" name="Test3" finished-at="2021-12-11T17:42:59 UTC" duration-ms="71124">
+    <test started-at="2021-12-11T17:57:58 UTC" name="Test3" finished-at="2021-12-11T17:58:29 UTC" duration-ms="30874">
       <class name="LambdaTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:41:48 UTC" name="beforeTest" finished-at="2021-12-11T17:41:48 UTC" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:57:58 UTC" name="beforeTest" finished-at="2021-12-11T17:57:58 UTC" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:41:48 UTC" name="testChrome1" finished-at="2021-12-11T17:42:58 UTC" duration-ms="70526" status="FAIL">
+        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:57:58 UTC" name="testChrome1" finished-at="2021-12-11T17:58:28 UTC" duration-ms="30316" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -335,19 +335,19 @@ at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:84)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChrome1 -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:42:58 UTC" name="afterTest" finished-at="2021-12-11T17:42:59 UTC" duration-ms="589" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@6e9175d8]" started-at="2021-12-11T17:58:28 UTC" name="afterTest" finished-at="2021-12-11T17:58:29 UTC" duration-ms="555" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- LambdaTest -->
     </test> <!-- Test3 -->
-    <test started-at="2021-12-11T17:42:59 UTC" name="Test4" finished-at="2021-12-11T17:44:09 UTC" duration-ms="69960">
+    <test started-at="2021-12-11T17:58:29 UTC" name="Test4" finished-at="2021-12-11T17:58:59 UTC" duration-ms="29866">
       <class name="LambdaTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:42:59 UTC" name="beforeTest" finished-at="2021-12-11T17:42:59 UTC" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:58:29 UTC" name="beforeTest" finished-at="2021-12-11T17:58:29 UTC" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:42:59 UTC" name="testChrome1" finished-at="2021-12-11T17:44:09 UTC" duration-ms="69735" status="FAIL">
+        <test-method signature="testChrome1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:58:29 UTC" name="testChrome1" finished-at="2021-12-11T17:58:59 UTC" duration-ms="29738" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -447,7 +447,7 @@ at org.openqa.selenium.interactions.Sequence.toJson(Sequence.java:84)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChrome1 -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:44:09 UTC" name="afterTest" finished-at="2021-12-11T17:44:09 UTC" duration-ms="223" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:LambdaTest@470734c3]" started-at="2021-12-11T17:58:59 UTC" name="afterTest" finished-at="2021-12-11T17:58:59 UTC" duration-ms="125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
